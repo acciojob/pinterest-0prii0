@@ -11,7 +11,7 @@
   height: 100vh;
 }
 
-.image-1{
+.image-1> img{
   width: 60%;             
   height: 100%;            
   object-fit: cover;
@@ -28,13 +28,13 @@
 }
 
 .text> h1{
-  font-size: 2rem;
+  font-size: 1.1rem;
   font-weight: bold;
   margin-bottom: 10px;
 }
 
 .text p {
-  font-size: 1rem;
+  font-size: 0.7rem;
   margin-bottom: 20px;
   color: #555;
 }
